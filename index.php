@@ -1,6 +1,6 @@
 <?
 
-$out = "Hello world"; 
+$out = "Hello world!"; 
 
 ?>
 <html><head>
@@ -8,6 +8,8 @@ $out = "Hello world";
  <title></title>
 </head><body>
 
-<? echo $out; ?>
+<div class="hw">
+ <? echo $out; ?>
+</div>
 
 </body></html>

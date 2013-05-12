@@ -1,1 +1,13 @@
-body { font-family:arial; }
+body { font-family:arial; 
+	font-size:9pt; 
+	color:#333; 
+	background-color:#eee; }
+
+.hw { display:block;
+	width:100px; 
+	height:100px;  
+	position:absolute; 
+	top:50%; 
+	left:50%; 
+	margin-top:-50px; 
+	margin-left:-50px; }
